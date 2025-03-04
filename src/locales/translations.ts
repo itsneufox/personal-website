@@ -2,7 +2,6 @@
 export const translations = {
     en: {
       title: 'CV | João Lopes Frias',
-      introduction: 'Introduction:',
       aboutMe: 'About Me:',
       skills: 'Skills:',
       experience: 'Professional Experience:',
@@ -15,7 +14,6 @@ export const translations = {
     },
     pt: {
       title: 'CV | João Lopes Frias',
-      introduction: 'Introdução:',
       aboutMe: 'Sobre Mim:',
       skills: 'Competências:',
       experience: 'Experiência Profissional:',

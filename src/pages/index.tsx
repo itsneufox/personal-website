@@ -1,5 +1,4 @@
 import { useRef } from "react";
-import IntroductionContainer from "../containers/IntroductionContainer";
 import SocialsContainer from "../containers/SocialsContainer";
 import EducationContainer from "../containers/EducationContainer";
 import SkillsContainer from "../containers/SkillsContainer";
@@ -8,7 +7,6 @@ import ProjectsContainer from "../containers/ProjectsContainer";
 import AboutMeContainer from "../containers/AboutMeContainer";
 import LanguageSwitcher from "../components/LanguageSwitcher";
 import { Col, Row, Container } from "../components/ui";
-import introduction from "../data/introduction.json";
 import { useLanguage } from "../context/LanguageContext";
 import { getTranslation } from "../locales/translations";
 
@@ -19,7 +17,7 @@ const Home = () => {
     <Container>
       <Row style={titleMargin}>
         <Col style={{ textAlign: 'center' }}>
-          <h1 style={{ fontWeight: 300, lineHeight: 1.2 }}>{introduction.name}</h1>
+          <h1 style={{ fontWeight: 300, lineHeight: 1.2 }}>João Leandro Lopes Frias</h1>
         </Col>
       </Row>
       <Row style={socialsMargin}>
@@ -48,17 +46,6 @@ const Home = () => {
       </Row>
       <hr style={separatorStyle} />
       <Row style={topMargin}>
-        <Col>
-          <h2>{getTranslation(language, 'introduction')}</h2>
-        </Col>
-      </Row> 
-      <Row style={bottomMargin}>
-        <Col>
-          <IntroductionContainer />
-        </Col>
-      </Row>
-
-      <Row style={rowMargin}>
         <Col>
           <h2>{getTranslation(language, 'aboutMe')}</h2>
         </Col>

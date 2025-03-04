@@ -1,23 +1,29 @@
 import React from "react";
-import AboutMeItem from "../components/AboutMeItem";
-import aboutmelistPT from "../data/aboutme.json";
-import aboutmelistEN from "../data/aboutme.en.json";
+import { v4 as UUIDv4 } from "uuid";
 import { useLanguage } from "../context/LanguageContext";
+import introductionPT from "../data/aboutme.json";
+import introductionEN from "../data/aboutme.en.json";
 
-const AboutMeContainer = () => {
+const IntroductionContainer = () => {
   const { language } = useLanguage();
   
-  const aboutmelist = language === 'pt' ? aboutmelistPT : aboutmelistEN;
-  
-  const listStyle: React.CSSProperties = {
-    listStyleType: "circle",
-  };
-  
-  const othersList = aboutmelist.map((entry, index) => (
-    <AboutMeItem {...entry} key={"about-me-item-" + index} />
+  const introduction = language === 'pt' ? introductionPT : introductionEN;
+
+  const descriptionList = introduction.descriptions.map((item) => (
+    <li key={UUIDv4()}>{item}</li>
   ));
-  
-  return <ul style={listStyle}>{othersList}</ul>;
+
+  return <ul style={descriptionStyle}>{descriptionList}</ul>;
 };
 
-export default AboutMeContainer;
+const descriptionStyle: React.CSSProperties = {
+  listStyleType: "disc",
+  color: "#444444",
+  paddingTop: "4px",
+  paddingRight: "0px",
+  paddingBottom: "4px",
+  fontWeight: "lighter",
+  fontSize: "0.9em",
+};
+
+export default IntroductionContainer;

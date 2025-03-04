@@ -1,17 +1,6 @@
-[
-  {
-    "description": "Tenho uma curiosidade natural por compreender o funcionamento das tecnologias, o que me leva a recriar ideias existentes à minha maneira. Respeito sempre a estrutura e funcionalidade originais, ao mesmo tempo que procuro formas de optimizar e melhorar cada projeto. Dedico-me profundamente aos detalhes, valorizando cada etapa do processo de aprendizagem e desenvolvimento."
-  },
-  {
-    "description": "Adapto códigos existentes e desenvolvo ferramentas personalizadas que respondem a necessidades específicas, com foco na eficiência e na experiência do utilizador. Procuro implementar novas funcionalidades que tragam valor real às aplicações, mantendo uma abordagem pragmática e orientada para a solução. O meu compromisso é criar software intuitivo e robusto, respeitando sempre o trabalho de base dos projetos em que colaboro."
-  },
-  {
-    "description": "Desenvolvo projetos de vídeo que combinam humor, gameplay e narrativa, criando conteúdo envolvente e original. Utilizo técnicas de edição para comunicar ideias de forma clara e cativante, adaptando o estilo consoante o público-alvo. Cada projeto é uma oportunidade para explorar a expressão criativa, equilibrando técnica e narrativa."
-  },
-  {
-    "description": "Exploro constantemente novas ferramentas e tecnologias como parte do meu desenvolvimento pessoal. Desde o desenvolvimento de extensões para VS Code até à integração de funcionalidades inovadoras em projetos existentes, gosto de testar abordagens experimentais, mesmo quando representam desafios técnicos. Acredito que a aprendizagem contínua é fundamental para a evolução como programador."
-  },
-  {
-    "description": "Participo ativamente em projetos open-source, contribuindo com documentação, suporte técnico e desenvolvimento de funcionalidades. Tenho orgulho em colaborar com a comunidade do open.mp e em manter o meus próprios projetos, LongWayDrivers, PAWN Painter, GameText-Plus, etc..."
-  }
-]
+{
+  "name": "João Leandro Lopes Frias",
+  "descriptions": [
+    "Apaixonado por software, edição de vídeo e criação de conteúdo. Gosto de explorar tecnologias, recriar ideias e desenvolver ferramentas personalizadas focadas na eficiência e experiência do utilizador. Contribuo para projetos com documentação, suporte e desenvolvimento. Estou sempre à procura de novos desafios para aprender e evoluir."
+  ]
+}

@@ -1,1 +1,1 @@
-Just my personal website at https://joaolopes.xyz/ , nothing important
+This repository contains the source code for my personal website, hosted at [joaolopes.xyz](https://joaolopes.xyz).
