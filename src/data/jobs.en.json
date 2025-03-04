@@ -1,0 +1,62 @@
+[
+  {
+    "employer": {
+      "name": "Micronipol becomes Veolia",
+      "location": "Portugal",
+      "url": "https://micronipol.pt/"
+    },
+    "position": "Production Line Supervisor",
+    "duration": "October 2023 - Present",
+    "descriptions": [
+      "Responsible for feeding, operating, and monitoring the production line, ensuring product quality and compliance with technical specifications. I perform basic equipment maintenance and troubleshoot operational issues. I also operate forklifts and lifting platforms as part of my daily duties."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Comergy / O.T. Engineering",
+      "location": "France",
+      "url": "https://www.comergy.fr/"
+    },
+    "position": "Machine Operator",
+    "duration": "November 2022 - September 2023",
+    "descriptions": [
+      "Operated specialised industrial equipment, including mini loaders and mini excavators in a construction environment. Worked in an international context requiring communication in multiple languages, adapting to different work cultures and technical requirements."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Sateba Satepor",
+      "location": "Portugal",
+      "url": "https://sateba.com/"
+    },
+    "position": "Factory Operator / Production Line Supervisor",
+    "duration": "April 2020 - October 2022",
+    "descriptions": [
+      "Performed specialised tasks in the production of concrete sleepers, including demoulding, mould preparation, and operation of specific production line machinery. Maintained the workspace and equipment in optimal condition, regularly cleaning transport and concrete mixing machines to ensure quality and safety standards."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Matcerâmica",
+      "location": "Portugal",
+      "url": "https://www.matceramica.com/"
+    },
+    "position": "Factory Operator",
+    "duration": "January 2018 - April 2020",
+    "descriptions": [
+      "Responsible for feeding, regulating, and maintaining the proper functioning of glazing machines. Collected products from the glazing lines and carried out loading and unloading processes for ceramic items, ensuring products met the company's quality standards."
+    ]
+  },
+  {
+    "employer": {
+      "name": "FNAC",
+      "location": "Portugal",
+      "url": "https://www.fnac.pt/"
+    },
+    "position": "Technical Products Salesperson",
+    "duration": "June 2016 - September 2017",
+    "descriptions": [
+      "Provided personalised service and technical advice on electronic and multimedia products to customers. Collaborated in store organisation, product promotion, stock replenishment, and promotional signage. Developed advanced communication skills and in-depth knowledge of available technological products."
+    ]
+  }
+]

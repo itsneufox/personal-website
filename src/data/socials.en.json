@@ -1,0 +1,14 @@
+[
+  {
+    "label": "reach@joaolopes.xyz",
+    "isEmail": true,
+    "value": "reach@joaolopes.xyz",
+    "icon": "AtSign"
+  },
+  {
+    "label": "@itsneufox",
+    "isEmail": false,
+    "value": "https://github.com/itsneufox/",
+    "icon": "GitHub"
+  }
+]

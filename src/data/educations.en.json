@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Escola Básica da Barreira",
+    "location": "Caxarias, Portugal",
+    "duration": "2004 - 2007",
+    "degree": "Preschool and Primary Education (Preschool and Year 1 to Year 3)"
+  },  
+  {
+    "name": "Antigo Liceu Rodrigues Lobo",
+    "location": "Leiria, Portugal",
+    "duration": "2007 - 2008",
+    "degree": "Primary Education (Year 4)"
+  },
+  {
+    "name": "Escola Básica de D. Dinis",
+    "location": "Leiria, Portugal",
+    "duration": "2008 - 2014",
+    "degree": "Primary Education (Year 5 to Year 9)"
+  },
+  {
+    "name": "Escola Básica e Secundária de Ourém",
+    "location": "Ourém, Portugal",
+    "duration": "2014 - 2017",
+    "degree": "Secondary Education (Year 10 to Year 12), Technical Course in Multimedia (Level 4 QRQ - Grade: 16)"
+  }
+]

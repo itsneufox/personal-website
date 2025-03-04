@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Languages",
+    "items": ["Portuguese", "English"]
+  },
+  {
+    "category": "Programming Languages",
+    "items": ["Pawn", "JavaScript/TypeScript", "Python", "HTML", "CSS"]
+  },
+  {
+    "category": "Frameworks and Development Tools",
+    "items": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "category": "Operating Systems",
+    "items": ["Windows", "macOS", "Linux"]
+  },
+  {
+    "category": "Databases",
+    "items": ["MySQL", "MariaDB", "SQLite"]
+  },
+  {
+    "category": "Other",
+    "items": ["Command Line", "Docker", "Microsoft Office"]
+  }
+]

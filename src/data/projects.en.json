@@ -1,0 +1,22 @@
+[
+  {
+    "title": "PAWN Painter",
+    "description": "A Visual Studio Code extension specifically designed for SA-MP and open.mp programmers, revolutionising colour handling in PAWN code. It offers real-time colour visualisation, format conversion, and intuitive tools for editing RGB, HEX, and embedded colours, significantly increasing productivity.",
+    "url": "https://github.com/itsneufox/PAWN-Painter-VSC"
+  },
+  {
+    "title": "GameText+",
+    "description": "An advanced library compatible with SA-MP and open.mp that expands and enhances the native GameText functionality. It offers improvements in text styling and animation options, allowing programmers to create more immersive interface elements.",
+    "url": "https://github.com/itsneufox/GameText-Plus"
+  },
+  {
+    "title": "LongWayDrivers (LWD Team)",
+    "description": "A comprehensive open.mp gamemode focused on realistic cargo transport simulation. It includes dynamic delivery missions, vehicle customisation, an economic system, driver progression, and immersive gameplay mechanics. The project emphasises user experience through detailed environments and engaging progression systems.",
+    "url": "https://github.com/longwaydrivers"
+  },
+  {
+    "title": "open.mp - Wiki Translation",
+    "description": "Active contribution to the internationalisation of open.mp documentation by translating wiki content into Portuguese. This work makes essential development resources accessible to non-English-speaking programmers, helping to expand and diversify the global open.mp community.",
+    "url": "https://github.com/itsneufox/web"
+  }
+]
