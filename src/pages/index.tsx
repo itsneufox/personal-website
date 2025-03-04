@@ -106,7 +106,7 @@ const Home = () => {
           <span style={{ display: "inline-block !important", marginRight: '1rem !important' }}>
             <a
               style={linkStyle}
-              href="https://amii.ir/"
+              href="https://joaolopes.xyz/"
               rel="nofollow noreferrer"
               target="_blank"
             >
