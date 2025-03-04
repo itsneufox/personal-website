@@ -17,7 +17,7 @@ const Home = () => {
     <Container>
       <Row style={titleMargin}>
         <Col style={{ textAlign: 'center' }}>
-          <h1 style={{ fontWeight: 300, lineHeight: 1.2 }}>João Leandro Lopes Frias</h1>
+          <h1 style={{ fontWeight: 280, lineHeight: 1.2 }}>João Leandro Lopes Frias</h1>
         </Col>
       </Row>
       <Row style={socialsMargin}>
