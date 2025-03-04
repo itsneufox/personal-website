@@ -123,7 +123,7 @@ const Home = () => {
               rel="nofollow noreferrer"
               target="_blank"
             >
-              © João "itsneufox" Lopes
+              © João 'itsneufox' Lopes
             </a>
             &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
             <a
