@@ -7,9 +7,9 @@ export const translations = {
       experience: 'Professional Experience:',
       projects: 'Personal Projects:',
       education: 'Education:',
-      print: 'Print page',
-      download: 'Download as PDF',
-      viewSource: 'View source code on Github',
+      print: 'Print',
+      download: 'PDF',
+      viewSource: 'Source code (Github)',
       // Add all text translations here
     },
     pt: {
@@ -19,9 +19,9 @@ export const translations = {
       experience: 'Experiência Profissional:',
       projects: 'Projetos Pessoais:',
       education: 'Educação:',
-      print: 'Imprimir página',
-      download: 'Download em PDF',
-      viewSource: 'Ver código fonte no Github',
+      print: 'Imprimir',
+      download: 'PDF',
+      viewSource: 'Código fonte (Github)',
       // Add all text translations here
     }
   };
